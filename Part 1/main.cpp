@@ -4,7 +4,7 @@
 /* 
     This task was given by Claude AI to help me to understand how C++ works at the entry level.
     So with that, I was able to build the basic C++ program to build the personal Info Card.
-    So it was sucessfully! Proud of me. 
+    So it was sucessfully! Proud of me.  Lol! 
 */
 
 int main() {
